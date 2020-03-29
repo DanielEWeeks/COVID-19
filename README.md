@@ -1,37 +1,58 @@
-## Welcome to GitHub Pages
+# Selected COVID-19 links
 
-You can use the [editor on GitHub](https://github.com/DanielEWeeks/COVID-19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## COVID NEAR YOU
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://www.covidnearyou.org/#!/
 
-### Markdown
+## Dashboard
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://avatorl.org/covid-19/
 
-```markdown
-Syntax highlighted code block
+## COVID-19 in the US and Canada
 
-# Header 1
-## Header 2
-### Header 3
+https://coronavirus.1point3acres.com/en
 
-- Bulleted
-- List
+## CRONYCLE curated feed
 
-1. Numbered
-2. List
+https://app.cronycle.com/feeds/82671
 
-**Bold** and _Italic_ and `Code` text
+## Citymapper Mobility Index
 
-[Link](url) and ![Image](src)
-```
+https://citymapper.com/CMI
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## COVID-19 Pulse
 
-### Jekyll Themes
+https://evidation.com/news/covid-19-pulse-first-data-evidation/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanielEWeeks/COVID-19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## US Health Weather Map by Kinsa
 
-### Support or Contact
+https://healthweather.us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Our World in Data
+
+https://ourworldindata.org/coronavirus-data
+
+## COVID-19 Projections
+
+https://covid19.healthdata.org/projections
+
+## Japan COVID-19 Coronavirus Tracker
+
+https://covid19japan.com
+
+## Nextstrain
+
+https://nextstrain.org
+
+## Social Distancing Scoreboard
+
+https://www.unacast.com/covid19/social-distancing-scoreboard
+
+## 91-DIVOC
+
+https://91-divoc.com/pages/covid-visualization/
+
+## Johns Hopkins interactive map
+
+https://coronavirus.jhu.edu/map.html
+
