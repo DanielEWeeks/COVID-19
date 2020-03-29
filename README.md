@@ -1,5 +1,21 @@
 # Selected COVID-19 links
 
+## Our World in Data
+
+Interactive graphs by researchers at the University of Oxford and the non-profit organization Global Change Data Lab. 
+
+https://ourworldindata.org/coronavirus-data
+
+## COVID-19 Projections
+
+Projections re need for hospitial beds, ICU beds, and ventilators by The Institute for Health Metrics and Evaluation (IHME), which is an independent population health research center at UW Medicine, part of the University of Washington.
+
+https://covid19.healthdata.org/projections
+
+## Johns Hopkins interactive map
+
+https://coronavirus.jhu.edu/map.html
+
 ## COVID NEAR YOU
 
 Contribute your health status daily and help track the COVID-19 pandemic
@@ -38,18 +54,6 @@ Data based on Kinsa’s network of internet-connected Smart Thermometers
 
 https://healthweather.us
 
-## Our World in Data
-
-Interactive graphs by researchers at the University of Oxford and the non-profit organization Global Change Data Lab. 
-
-https://ourworldindata.org/coronavirus-data
-
-## COVID-19 Projections
-
-Projections re need for hospitial beds, ICU beds, and ventilators by The Institute for Health Metrics and Evaluation (IHME), which is an independent population health research center at UW Medicine, part of the University of Washington.
-
-https://covid19.healthdata.org/projections
-
 ## Japan COVID-19 Coronavirus Tracker
 
 https://covid19japan.com
@@ -70,7 +74,4 @@ https://www.unacast.com/covid19/social-distancing-scoreboard
 
 https://91-divoc.com/pages/covid-visualization/
 
-## Johns Hopkins interactive map
-
-https://coronavirus.jhu.edu/map.html
 
