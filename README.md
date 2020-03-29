@@ -4,7 +4,7 @@
 
 Interactive graphs by researchers at the University of Oxford and the non-profit organization Global Change Data Lab. 
 
-https://ourworldindata.org/coronavirus-data
+(https://ourworldindata.org/coronavirus-data)
 
 ## COVID-19 Projections
 
