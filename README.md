@@ -22,6 +22,22 @@ Real-time tracking of pathogen evolution
 
 <https://nextstrain.org>
 
+## Financial Times projections
+
+<https://www.ft.com/coronavirus-latest>
+
+## Forecasts by country
+
+6-day forecasts of COVID-19 case counts by country based on a model that integrates the effect of population behavior changes due to government measures and social distancing.
+
+<http://rocs.hu-berlin.de/corona/docs/forecast/results_by_country/>
+
+## Brief 19
+
+A daily review of covid-19 research and policy
+
+<http://www.brief19.com>
+
 ## COVID NEAR YOU
 
 Contribute your health status daily and help track the COVID-19 pandemic
